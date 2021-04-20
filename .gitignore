@@ -1,3 +1,4 @@
 .idea
 SideEffects.iml
-build
+/build/
+/node_modules/
